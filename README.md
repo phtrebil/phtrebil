@@ -1,0 +1,2 @@
+Olá meu nome é Pedro sou formado em direito e estou na área há aproximadamente 10 anos. Mas faz algum tempo que já não estou satisfeito com a minha área de atuação e tenho buscado migrar para área de tecnologia, tendo em vista que tenho muita afinidade come essa área.
+Atualmente estou estudando Análise e Desenvolvimento de Sistema (Gostando bastante do Curso), além de fazer alguns cursos livres da Alura (HTML, CSS, JS e JAVA). Estou compartilhando aqui tudo que tenho pensado de projeto e exercícios executados durante os cursos.
