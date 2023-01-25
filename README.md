@@ -3,7 +3,7 @@
 
 👦 - pronome: Ele/Dele.
 
-📚 - Estudando Kotlin e Java atualmente. Também estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas.
+📚 - Estudando Kotlin e Java atualmente. Também estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.
 
 💌 - e-mail: phptrebil@gmail.com.
 
