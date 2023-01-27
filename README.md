@@ -1,5 +1,5 @@
 <div>
-🤙🏻 - Olá, eu sou Pedo Trebilcock. Advogado com mais de 10 anos de experiência em momento de transição de carreira para a área da Tecnologia, com foco para Desenvolvimento Mobile. 
+🤙🏻 - Olá, eu sou Pedro Trebilcock. Advogado com mais de 10 anos de experiência em momento de transição de carreira para a área da Tecnologia, com foco para Desenvolvimento Mobile. 
 
 👦 - pronome: Ele/Dele.
 
@@ -7,7 +7,7 @@
 
 💌 - e-mail: phptrebil@gmail.com.
 
-🚀 - Faço cursos livres para aprimoramento pessoal e profissional sobretudo voltados para desenvolvimento Android, Kotlin e Java, tendo finalizado o Bootcamp Santander 2022 em parceria com a Digital Innovation Inc. para a Trilha de Mobile Developer sobre Kotlin e desenvolvimento mobile. Meu primeiro contato com programação foi durante a formação de iniciante em programação na Alura, onde estudei JavaScript, HTML, CSS.
+🚀 - Faço cursos livres para aprimoramento pessoal e profissional sobretudo voltados para desenvolvimento Android, Kotlin e Java, tendo finalizado o Bootcamp Santander 2022 em parceria com a Digital Innovation Inc. para a Trilha de Mobile Developer sobre Kotlin e desenvolvimento mobile, além da Formação em Java e Orientação a Objetos e Android com Java, ambos da Alura. Meu primeiro contato com programação foi durante a Formação de Iniciante em Programação na Alura, onde estudei JavaScript, HTML, CSS.
 
 </div>
  
