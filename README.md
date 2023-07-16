@@ -12,15 +12,15 @@
 
 </div>
 
-<div align="center"><img src="https://streak-stats.demolab.com/?user=phtrebil"</div>
+<div align="center"><img height="150em" src="https://streak-stats.demolab.com/?user=phtrebil"</div>
  
  
  
 
 <div align="center">
   <a href="https://github.com/phtrebil">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=phtrebil&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtrebil&layout=compact&langs_count=7&theme=light"/>  
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=phtrebil&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtrebil&layout=compact&langs_count=7&theme=light"/>  
 </div>
 
 ##
