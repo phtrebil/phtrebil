@@ -1,14 +1,18 @@
 <div>
  
-🤙🏻 - Olá, sou Pedro, Desenvolvedor Android Nativo com Java e Kotlin. 
+🤙🏻 - Olá, sou Pedro Trebilcock, Desenvolvedor Android Nativo com Java e Kotlin.
 
 👦 - pronome: Ele/Dele.
 
-📚 - Estudando Kotlin e Java atualmente. Também estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.
+📚 – Estudante de Bacharelado em Ciências da Computação com Inglês Avançado.
 
-💌 - e-mail: phptrebil@gmail.com.
+💌 - E-mail: phtrebil@gmail.com.
 
-🚀 - Conto com diversos projetos realizados, possibilitando o desenvolvimento de habilidades e competências em ferramentas e funcionalidades como: Versionamento em Git e GitHub, Android SDK, Room, RecyclerView e Retrofit. Nos meus projetos, utilizo o RecyclerView para construção de listas otimizadas, o Room como database para realização de todo o processo de CRUD e o Retrofit quando é necessário buscar informações de uma API. Tenho inglês avançado e conto com vasta experiência em ambientes corporativos. Sou uma pessoa curiosa, dedicada, com facilidade de aprendizado e habituado a trabalhar com prazos determinados, Tenho habilidade em mediação de conflitos e escrita qualificada.
+💻 - LinkedIn: https://www.linkedin.com/in/pedro-trebilcock/ 
+
+🚀 - Conto com diversos projetos realizados, possibilitando o desenvolvimento de habilidades e competências em ferramentas e funcionalidades como: versionamento em Git e GitHub, Android SDK, Room, RecyclerView e Retrofit. Nos meus projetos, utilizo o RecyclerView para construção de listas otimizadas, o Room como database para realização de todo o processo de CRUD e o Retrofit quando é necessário buscar informações de uma API. Tenho inglês avançado e conto com vasta experiência em ambientes corporativos. Sou uma pessoa curiosa, dedicada, com facilidade de aprendizado e habituado a trabalhar com prazos determinados. Tenho habilidade em mediação de conflitos e escrita qualificada.
+
+👨🏻‍💻 - Habilidades em: Kotlin | Java | Android SDK | Git | GitHub | Retrofit | Room | RecyclerView | Coroutines | MVVM | JSON | Kotlin-Flow | Fragments | Koin | Navigation | SQLite | Picasso | Jetpack | API Rest | Live Data | Testes Unitários com JUnit e Mockito | Testes Instrumentados com Espresso
 
 </div>
 
