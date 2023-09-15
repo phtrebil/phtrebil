@@ -12,7 +12,7 @@
 
 🚀 - Conto com diversos projetos realizados, possibilitando o desenvolvimento de habilidades e competências em ferramentas e funcionalidades como: versionamento em Git e GitHub, Android SDK, Room, RecyclerView e Retrofit. Nos meus projetos, utilizo o RecyclerView para construção de listas otimizadas, o Room como database para realização de todo o processo de CRUD e o Retrofit quando é necessário buscar informações de uma API. Tenho inglês avançado e conto com vasta experiência em ambientes corporativos. Sou uma pessoa curiosa, dedicada, com facilidade de aprendizado e habituado a trabalhar com prazos determinados. Tenho habilidade em mediação de conflitos e escrita qualificada.
 
-👨🏻‍💻 - Habilidades em: Kotlin | Java | Android SDK | Git | GitHub | Retrofit | Room | RecyclerView | Coroutines | MVVM | JSON | Kotlin-Flow | Fragments | Koin | Navigation | SQLite | Picasso | Jetpack | API Rest | Live Data | Testes Unitários com JUnit e Mockito | Testes Instrumentados com Espresso
+👨🏻‍💻 - Habilidades em: Kotlin | Java | Android SDK | Git | GitHub | Retrofit | Room | RecyclerView | Coroutines | MVVM | JSON | Kotlin-Flow | Fragments | Koin | Navigation | SQLite | Picasso | Jetpack | API Rest | Live Data | Testes Unitários com JUnit e Mockk | Testes Instrumentados com Espresso
 
 </div>
 
